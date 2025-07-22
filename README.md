@@ -80,5 +80,6 @@ Open your browser and visit:
 ```
 http://<public-ip>/
 ```
+<img width="674" height="264" alt="Screenshot 2025-07-22 072159" src="https://github.com/user-attachments/assets/d0657784-293d-4833-9edd-26105049ca3e" />
 
 You should see the default or custom web page deployed by your `user_data.sh` script.
